@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="garfield">Garfield</string>
+    <string name="oddie">Oddie</string>
+    <string name="gyo">Garfield Y Oddie</string>
+
+
+    <string name="mascota_likes">likes</string>
+    <!-- Opciones del menú -->
+    <string name="m_fav">Favoritos</string>
+    <string name="m_about">About</string>
+
+    <!-- Parámetros Bundle -->
+    <string name="pfoto">foto</string>
+    <string name="pnombre">nombre</string>
+    <string name="plikes">likes</string>
+    <!--
+    Image Descriptions
+    -->
+    <string name="mascota_description">Descripción de la imágen de la macota</string>
+    <string name="bone1_description">Obtenido de: https://old.icons8.com/icon/set/bone/all</string>
+    <string name="bone2_description">Obtenido de: https://old.icons8.com/icon/set/bone/all</string>
+</resources>

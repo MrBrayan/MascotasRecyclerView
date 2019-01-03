@@ -16,4 +16,4 @@ Proyecto de la semana 3 del tercer curso.
 
  * RecyclerView usado para mostrar la lista de Favoritos.
  Se agregan 5 elementos como lo indica la actividad.
-![alt text](img/RecyclerView1.png "Pantallazo de la aplicación")
+![alt text](img/RecyclerView2.png "Pantallazo de la aplicación")
